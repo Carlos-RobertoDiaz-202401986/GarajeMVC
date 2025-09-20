@@ -1,0 +1,24 @@
+﻿@model GarageMVC.Models.Garage
+
+@{
+    ViewData["Title"] = "Home Page";
+    var autosList = Model.GetAutos();
+}
+
+<h3>Garaje: @Model.getDescripcion() </h3>
+
+<table class="table">
+    <tr>
+        <th>Número</th>
+        <th>Marca</th>
+        <th>Placa</th>
+    </tr>
+    @foreach (var item in autosList)
+    {
+        <tr>
+            <td>@item.numeroAuto</td>
+            <td>@item.marca</td>
+            <td>@item.placa</td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\github\\GarajeMVC\\GarajeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\github\\garajemvc\\garajemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\github\\garajemvc\\garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\github\\garajemvc\\garajemvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\github\\garajemvc\\garajemvc\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\github\\GarajeMVC\\GarajeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\github\\GarajeMVC\\GarajeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T01:53:25.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\github\\GarajeMVC\\GarajeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\github\\GarajeMVC\\GarajeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:51:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\github\\GarajeMVC\\GarajeMVC\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "Models\\Auto.cs",
+              "ToolTip": "C:\\github\\GarajeMVC\\GarajeMVC\\Models\\Auto.cs",
+              "RelativeToolTip": "Models\\Auto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:22:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\github\\GarajeMVC\\GarajeMVC\\Models\\Garage.cs",
+              "RelativeDocumentMoniker": "Models\\Garage.cs",
+              "ToolTip": "C:\\github\\GarajeMVC\\GarajeMVC\\Models\\Garage.cs",
+              "RelativeToolTip": "Models\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:21:23.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

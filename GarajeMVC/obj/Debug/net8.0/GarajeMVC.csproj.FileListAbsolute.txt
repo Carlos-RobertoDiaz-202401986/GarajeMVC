@@ -1,0 +1,102 @@
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.AssemblyInfoInputs.cache
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.AssemblyInfo.cs
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.csproj.CoreCompileInputs.cache
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.RazorAssemblyInfo.cache
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.RazorAssemblyInfo.cs
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.sourcelink.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\appsettings.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.staticwebassets.runtime.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.staticwebassets.endpoints.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.exe
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.deps.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.runtimeconfig.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.dll
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.pdb
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\bundle\GarajeMVC.styles.css
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\projectbundle\GarajeMVC.bundle.scp.css
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.dll
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\refint\GarajeMVC.dll
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.pdb
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.genruntimeconfig.cache
+D:\Programación Orientada a Objeto\GarajeMVC\GarajeMVC\obj\Debug\net8.0\ref\GarajeMVC.dll
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\appsettings.json
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.staticwebassets.endpoints.json
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.staticwebassets.runtime.json
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.exe
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.deps.json
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.runtimeconfig.json
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.dll
+C:\github\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.pdb
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.AssemblyInfoInputs.cache
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.AssemblyInfo.cs
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.csproj.CoreCompileInputs.cache
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.RazorAssemblyInfo.cache
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.RazorAssemblyInfo.cs
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.sourcelink.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\bundle\GarajeMVC.styles.css
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\projectbundle\GarajeMVC.bundle.scp.css
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.dll
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\refint\GarajeMVC.dll
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.pdb
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.genruntimeconfig.cache
+C:\github\GarajeMVC\GarajeMVC\obj\Debug\net8.0\ref\GarajeMVC.dll
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\appsettings.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.staticwebassets.endpoints.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.staticwebassets.runtime.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.exe
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.deps.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.runtimeconfig.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.dll
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\bin\Debug\net8.0\GarajeMVC.pdb
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.AssemblyInfoInputs.cache
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.AssemblyInfo.cs
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.csproj.CoreCompileInputs.cache
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.RazorAssemblyInfo.cache
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.RazorAssemblyInfo.cs
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.sourcelink.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\bundle\GarajeMVC.styles.css
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\scopedcss\projectbundle\GarajeMVC.bundle.scp.css
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.dll
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\refint\GarajeMVC.dll
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.pdb
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\GarajeMVC.genruntimeconfig.cache
+C:\Users\U METRO POLITANA\Desktop\examen\GarajeMVC\GarajeMVC\obj\Debug\net8.0\ref\GarajeMVC.dll
